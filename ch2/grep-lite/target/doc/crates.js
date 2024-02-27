@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["aho_corasick","ansi_term","atty","bitflags","clap","grep_lite","libc","memchr","regex","regex_automata","regex_syntax","strsim","textwrap","unicode_width","vec_map"];

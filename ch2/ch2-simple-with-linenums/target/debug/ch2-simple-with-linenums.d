@@ -1,0 +1,1 @@
+/Users/svaz/development/MyCode/rust/rust-in-action/ch2/ch2-simple-with-linenums/target/debug/ch2-simple-with-linenums: /Users/svaz/development/MyCode/rust/rust-in-action/ch2/ch2-simple-with-linenums/src/main.rs
